@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">NavFi</string>
+    <string name="result_text_default">Please focus camera to QR Code</string>
+
+
+    <string name="p_1">479,383</string>
+    <string name="p_3">410,477</string>    
+    <string name="p_5">410,759</string>    
+    <string name="p_6">410,1143</string>   
+    <string name="p_8">410,1485</string>   
+    <string name="p_11">703,558</string> 
+    <string name="p_13">945,690</string> 
+	<string name="p_15">1323,690</string>
+	<string name="p_16">1713,690</string>
+	<string name="p_18">1817,1243</string>
+	<string name="p_19">1817,1391</string>
+	<string name="p_20">1817,1699</string>
+	<string name="p_21">1817,1987</string>
+	<string name="p_22">1817,2259</string>
+	<string name="p_23">1817,2319</string>
+	<string name="p_25">1817,2720</string>
+	<string name="p_26">1454,2475</string>
+	<string name="p_27">1246,2475</string>
+	<string name="p_28">1035,2475</string>
+	<string name="p_30">909,2720</string>
+	<string name="p_32">670,3015</string>
+	<string name="p_34">432,2680</string>
+	<string name="p_35">432,2462</string>
+	<string name="p_36">432,2203</string>
+	<string name="p_38">606,1980</string>
+	<string name="p_39">870,1980</string>
+	<string name="p_40">1035,1980</string>
+	<string name="p_41">1348,1699</string>
+	<string name="p_44">700,1811</string>
+	<string name="p_46">1050,1098</string>
+	<string name="p_48">1334,914</string>
+
+	
+	<string name="p_4">410,558</string>
+	<string name="p_7">410,1341</string>
+	<string name="p_9">410,1811</string>
+    <string name="p_2">410,383</string> 	
+    <string name="p_12">703,690</string>
+	<string name="p_14">1050,690</string>	
+	<string name="p_17">1817,690</string>
+	<string name="p_24">1817,2475</string>
+	<string name="p_29">1035,2720</string>
+	<string name="p_31">670,2720</string>
+	<string name="p_33">432,2720</string>
+	<string name="p_37">432,1980</string>
+	<string name="p_42">1050,1699</string>
+	<string name="p_43">1050,1811</string>
+	<string name="p_45">1050,1341</string>
+	<string name="p_47">1050,914</string>
+
+	
+    <string name="p_10">410,1889</string>   
+
+
+	<!--bellman updated till here ^-->
+	<!--^^-->
+
+
+    <!--<string name="p_1">1809,2467</string>
+    <string name="p_2">1233,2467</string>
+    <string name="p_3">1233,2770</string>
+    <string name="p_4">1809,2772</string>
+    <string name="p_5">1233,2772</string>-->
+
+<string name="p_100">1809,2467</string>
+<string name="p_101">1233,2467</string>
+<string name="p_102">1233,2770</string>
+
+
+</resources>

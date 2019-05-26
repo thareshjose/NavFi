@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">NavFi</string>
+    <string name="result_text_default">Please focus camera to QR Code</string>
+
+
+    <string name="p_1">479,383</string>
+    <string name="p_3">410,477</string>
+    <string name="p_5">410,759</string>
+    <string name="p_6">410,1143</string>
+    <string name="p_8">410,1485</string>
+    <string name="p_11">703,558</string>
+    <string name="p_13">945,690</string>
+    <string name="p_15">1323,690</string>
+    <string name="p_16">1713,690</string>
+    <string name="p_18">1817,1243</string>
+    <string name="p_19">1817,1391</string>
+    <string name="p_20">1817,1699</string>
+    <string name="p_21">1817,1987</string>
+    <string name="p_22">1817,2259</string>
+    <string name="p_23">1817,2319</string>
+    <string name="p_25">1817,2720</string>
+    <string name="p_26">1454,2475</string>
+    <string name="p_27">1246,2475</string>
+    <string name="p_28">1035,2475</string>
+    <string name="p_30">909,2720</string>
+    <string name="p_32">670,3015</string>
+    <string name="p_34">432,2680</string>
+    <string name="p_35">432,2462</string>
+    <string name="p_36">432,2203</string>
+    <string name="p_38">606,1980</string>
+    <string name="p_39">870,1980</string>
+    <string name="p_40">1035,1980</string>
+    <string name="p_41">1348,1699</string>
+    <string name="p_44">700,1811</string>
+    <string name="p_46">1050,1098</string>
+    <string name="p_48">1334,914</string>
+
+
+    <string name="p_4">410,558</string>
+    <string name="p_7">410,1341</string>
+    <string name="p_9">410,1811</string>
+    <string name="p_2">410,383</string>
+    <string name="p_12">703,690</string>
+    <string name="p_14">1050,690</string>
+    <string name="p_17">1817,690</string>
+    <string name="p_24">1817,2475</string>
+    <string name="p_29">1035,2720</string>
+    <string name="p_31">670,2720</string>
+    <string name="p_33">432,2720</string>
+    <string name="p_37">432,1980</string>
+    <string name="p_42">1050,1699</string>
+    <string name="p_43">1050,1811</string>
+    <string name="p_45">1050,1341</string>
+    <string name="p_47">1050,914</string>
+    <string name="p_10">410,1889</string>
+
+
+    
+    <string name="p_101">291,233</string>
+    <string name="p_102">291,509</string>
+    <string name="p_103">291,785</string>
+    <string name="p_104">291,1061</string>
+    <string name="p_105">291,1337</string>
+    <string name="p_106">291,1613</string>
+
+    <string name="p_107">465,1613</string>
+    <string name="p_108">465,1849</string>
+    <string name="p_109">465,2129</string>
+    <string name="p_110">291,2129</string>
+    <string name="p_111">291,2435</string>
+    <string name="p_112">291,2711</string>
+    <string name="p_113">291,2987</string>
+
+    <string name="p_114">690,2711</string>
+    <string name="p_115">690,2403</string>
+    <string name="p_116">690,2129</string>
+    <string name="p_117">690,1849</string>
+    <string name="p_118">690,1613</string>
+
+    <string name="p_119">465,1337</string>
+    <string name="p_120">465,1061</string> 
+
+    <string name="p_121">690,1061</string>
+    <string name="p_122">690,785</string>
+    <string name="p_123">690,509</string>
+
+    <string name="p_124">1131,551</string>
+    <string name="p_125">1131,785</string>
+    <string name="p_126">1131,1061</string>
+
+    <string name="p_127">1131,1337</string>
+    <string name="p_128">1356,1337</string>
+
+    <string name="p_129">1356,1061</string>
+    <string name="p_130">1356,785</string>
+    <string name="p_131">1356,551</string>
+
+    <string name="p_132">1131,1613</string>  
+    <string name="p_133">1131,1849</string>
+    <string name="p_134">1131,2129</string>
+    <string name="p_135">1131,2403</string>
+    <string name="p_136">1131,2711</string>
+
+    <string name="p_137">690,2987</string>
+    <string name="p_138">1131,2987</string>
+    <string name="p_139">1356,2978</string>
+
+   <string name="p_140">1356,2711</string>
+   <string name="p_141">1356,2403</string>
+   <string name="p_142">1356,2129</string>
+   <string name="p_143">1356,1849</string>
+   <string name="p_144">1356,1613</string>
+
+<string name="p_145">1595,1337</string>
+<string name="p_146">1909,1117</string>
+<string name="p_147">1909,1337</string>
+<string name="p_148">1909,1613</string>
+<string name="p_149">1909,1849</string>
+<string name="p_150">1909,2129</string>
+<string name="p_151">1909,2403</string>
+<string name="p_152">1909,2711</string>
+<string name="p_153">1909,2978</string>
+
+<string name="p_154">1595,2978</string>
+<string name="p_155">1595,1117</string>
+<string name="p_156">690,1337</string>
+    
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

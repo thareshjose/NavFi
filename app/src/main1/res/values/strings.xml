@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Main_Project</string>
+    <string name="result_text_default">Please focus camera to QR Code</string>
+
+    <string name="p_1">1809,2467</string>
+    <string name="p_2">1233,2467</string>
+    <string name="p_3">1233,2770</string>
+    <string name="p_4">1809,2772</string>
+    <string name="p_5">1233,2772</string>
+
+
+</resources>
